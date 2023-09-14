@@ -1,0 +1,14 @@
+Human:
+
+A stop word is a commonly used word that a search engine has been programmed to ignore,
+ both when indexing entries for searching and when retrieving them as the result of a search query. 
+We would not want these words to take up space in our database, or taking up valuable processing time. For this,
+ we can remove them easily, by storing a list of words that you consider to stop words. 
+
+
+ChatGPT:
+
+Stop words are common words that are frequently used in natural language but do not carry much meaning or importance in a given text.
+Stop words are often removed from text before analysis because they do not contribute much to the meaning of a sentence or document, 
+and can even interfere with certain types of analysis such as sentiment analysis. By removing stop words, the analysis can focus on the 
+more important words that convey the main ideas and themes of the text.

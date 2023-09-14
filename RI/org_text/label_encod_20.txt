@@ -1,0 +1,16 @@
+Human:
+
+In machine learning, we usually deal with datasets that contain multiple labels in one or more than one columns. These labels 
+can be in the form of words or numbers. To make the data understandable or in human-readable form, the training data is often 
+labelled in words. 
+
+Label Encoding refers to converting the labels into a numeric form so as to convert them into the machine readable form. Machine 
+learning algorithms can then decide in a better way how those labels must be operated. It is an important pre-processing step for 
+the structured dataset in supervised learning.
+
+CHATGPT:
+
+Label encoding is a process of converting categorical data into numerical data in machine learning. In label encoding, each category 
+in a categorical variable is assigned a unique numerical value or label. This allows machine learning algorithms to process and analyze 
+categorical data as numerical data.
+Label encoding is commonly used when the categorical data is ordinal, meaning there is an inherent order to the categories.

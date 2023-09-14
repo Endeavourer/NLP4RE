@@ -1,0 +1,12 @@
+Human:
+Calling a function or assigning a value to a variable, at run-time is called Dynamic Binding.
+Dynamic binding can be associated with run time polymorphism and inheritance in OOPs.
+Dynamic binding makes the execution of a program flexible as it can decide what value should be assigned to the variable
+and which function should be called, at the time of program execution. 
+But as this information is provided at run time it makes the execution slower as compared to static binding.
+
+ChatGPT:
+
+Dynamic binding is a mechanism used in computer programming languages to resolve references to variables, functions, and other symbols at runtime. In dynamic binding, the mapping between the reference and the actual memory location is not determined until the program is executed.
+
+Dynamic binding is commonly used in object-oriented programming languages like Java and Python, where objects can have different types at runtime. The binding between a method call and the method implementation is determined dynamically based on the object's runtime type.

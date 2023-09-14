@@ -1,0 +1,15 @@
+Human:
+Demand paging is a method of virtual memory management which is based on the principle that pages should only be brought into memory 
+if the executing process demands them. This is often referred to as lazy evaluation as only those pages demanded by the process are 
+swapped from secondary storage to main memory.
+So demand paging works opposite to the principle of loading all pages immediately.
+
+ChatGPT:
+
+Demand paging is a memory management technique used by operating systems to improve memory utilization and performance. 
+In demand paging, only the required pages of a process are loaded into the main memory, rather than loading the entire process into
+ memory at once. Pages are loaded into memory on demand, as they are needed by the process during execution.
+
+This technique allows for more efficient use of memory resources, as only the necessary pages are loaded into memory at any given time.
+ It also reduces the amount of time required for program loading and startup, as only a subset of the programs pages need to be loaded
+ into memory initially.

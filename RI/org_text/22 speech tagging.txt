@@ -1,0 +1,15 @@
+Human:
+
+The part of speech explains how a word is used in a sentence. In a sentence, a word can have different contexts and semantic meanings. 
+The basic natural language processing models like bag-of-words fail to identify these relations between words. Hence, we use part of 
+speech tagging to mark a word to its part of speech tag based on its context in the data. It is also used to extract relationships 
+between words.
+
+ChatGPT:
+
+Speech tagging, also known as part-of-speech tagging, is a natural language processing (NLP) technique used to assign grammatical tags or
+ labels to individual words in a sentence. The tags indicate the syntactic category of the word, such as noun, verb, adjective, adverb,
+ pronoun, preposition, conjunction, or interjection.
+
+Speech tagging is an important step in many NLP applications, such as text-to-speech synthesis, speech recognition, and machine 
+translation. It helps to disambiguate the meaning of words in a sentence by providing context for their use.

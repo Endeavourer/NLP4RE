@@ -1,0 +1,16 @@
+human:
+
+In Round robin scheduling, each ready task runs turn by turn only in a cyclic queue for a limited time slice. 
+This algorithm also offers starvation free execution of processes. Widely used preemptive scheduling method in traditional OS. 
+All the jobs get a fair allocation of CPU. Cons include : Finding a correct time quantum is a quite difficult task in this system, 
+Round robin scheduling doesn’t give special priority to more important tasks.
+
+ChatGPT:
+
+Round Robin is a CPU scheduling algorithm that is commonly used in operating systems. It is a preemptive algorithm that assigns a fixed 
+time slice, called a time quantum, to each process in a circular order. When a process is scheduled, it is allowed to run for a fixed 
+amount of time, and then it is preempted and the next process in the queue is allowed to run for its own time quantum.
+
+The key advantage of the Round Robin algorithm is that it ensures fairness by allocating equal time slices to each process in the system, 
+regardless of the process priority or other characteristics. This helps to prevent any single process from monopolizing the CPU and 
+ensures that each process gets a fair share of processing time.

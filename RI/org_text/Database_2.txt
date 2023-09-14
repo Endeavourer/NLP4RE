@@ -1,0 +1,17 @@
+Human:
+
+A database is an organised collection of structured information, or data, typically stored electronically in a computer system.
+ A database is usually controlled by a database management system. Together, the data and the DBMS, along with the applications
+ that are associated with them, are referred to as a database system, often shortened to just a database.
+
+
+
+ChatGPT:
+
+A database is an organized collection of data that is stored and accessed electronically. It is designed to store, manage, and retrieve
+ large amounts of data efficiently and effectively. A database is used to store data in a structured and organized way so that it can
+ be easily accessed, queried, and analyzed.
+
+A database is typically made up of one or more tables, each of which contains data about a specific type of object or entity. 
+Each table consists of a set of columns that define the attributes of the data being stored, and a set of rows that contain the 
+actual data.

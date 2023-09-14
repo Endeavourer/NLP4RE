@@ -1,0 +1,13 @@
+Human: 
+
+A socket is defined as an endpoint for communication, A pair of processes communicating over a network employ a pair of sockets, 
+one for each process. A socket is identified by an IP address concatenated with a port number.
+The server waits for incoming client requests by listening to a specified port. Once a request is received, the server accepts a
+ connection from the client socket to complete the connection.
+
+ChatGpt:
+
+A socket is a communication endpoint that is used to establish a connection between two different processes over a network. 
+In computer networking, a socket is a combination of an IP address and a port number that uniquely identifies a specific process on a 
+particular device. Sockets are commonly used in client-server architectures to allow applications to communicate with one another 
+over the internet or a local network.

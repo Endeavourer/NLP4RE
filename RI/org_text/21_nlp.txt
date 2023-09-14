@@ -1,0 +1,14 @@
+Human:
+
+Natural Language Processing (NLP) is a subfield of Artificial Intelligence that deals with the interaction between computers and 
+human languages. NLP is used to analyze, understand, and generate natural language text and speech. The goal of NLP is to enable 
+computers to understand and interpret human language in a way that is similar to how humans process language.
+
+
+ChatGpT:
+
+Natural Language Processing (NLP) is a subfield of artificial intelligence that deals with the interaction between computers and 
+human languages. It involves developing algorithms and computational models that enable computers to understand, interpret, and 
+generate human language.
+
+NLP is a multidisciplinary field that draws on techniques from computer science, linguistics, and psychology.

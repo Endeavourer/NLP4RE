@@ -1,0 +1,17 @@
+Human:
+
+When a compiler acknowledges all the information required to call a function or all the values of the variables during compile time, 
+it is called static binding. As all the required information is known before runtime, it increases the program efficiency and it also 
+enhances the speed of execution of a program. Static Binding makes a program very efficient, but it declines the program flexibility, as values of variable and function calling are 
+predefined in the program. Static binding is implemented in a program at the time of coding. Overloading a function or an operator is 
+the example of compile time polymorphism i.e. static binding.
+
+
+
+chatgpt:
+
+Static binding is a mechanism used in computer programming languages to resolve references to variables, functions, and other symbols at compile-time.
+
+In static binding, the compiler maps a reference to a specific memory location before the program is run. This means that the reference is bound to a specific value or address at compile-time and remains fixed throughout the program's execution. This is in contrast to dynamic binding, where the mapping is done at runtime.
+
+Static binding is often used in low-level languages and provides faster performance than dynamic binding. However, it can also be less flexible, as changes to the program require recompilation to update the references.

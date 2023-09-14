@@ -1,0 +1,11 @@
+Human:
+A Deadlock is a situation where each of the computer processes waits for a resource which is being assigned to some other process. 
+In this situation, none of the processes gets executed since the resource it needs is held by some other process which is also waiting 
+for some other resource to be released.  Deadlock happens when Mutual exclusion, hold and wait, No preemption and circular wait occurs simultaneously.
+
+ChatGPT:
+
+A deadlock is a situation that can occur in computer systems, particularly in multi-tasking environments, where two or more processes or threads are unable to continue executing because they are waiting for each other to release resources they are holding.
+This can occur due to a lack of synchronization between the processes, incorrect resource allocation, or other issues related to the management of shared resources.
+
+Deadlocks can be problematic for computer systems because they can cause the system to become unresponsive or crash. 

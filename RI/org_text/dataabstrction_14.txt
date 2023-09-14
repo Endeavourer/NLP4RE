@@ -1,0 +1,20 @@
+human:
+
+Data Abstraction is a process of hiding unwanted or irrelevant details from the end user. It provides a different view and helps in 
+achieving data independence which is used to enhance the security of data.
+
+Database systems include complex data structures. In terms of retrieval of data, reduce complexity in terms of usability of users and 
+in order to make the system efficient, developers use levels of abstraction that hide irrelevant details from the users. Levels of 
+abstraction simplify database design.
+
+chatGPT:
+
+
+
+Data abstraction in DBMS refers to the process of hiding the complex details of a database from the users and applications that 
+interact with it. It allows users to interact with a database at a higher level of abstraction, without needing to know the underlying 
+details of how the data is stored and managed.
+
+Data abstraction is achieved through the use of various database models, such as the relational model, object-oriented model, and 
+hierarchical model. Each of these models provides a different level of abstraction, with the relational model being the most commonly 
+used model in modern DBMS.

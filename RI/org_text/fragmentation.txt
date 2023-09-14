@@ -1,0 +1,19 @@
+Human:
+
+An unwanted problem in the operating system in which the processes are loaded and unloaded from memory, and free memory space is fragmented.
+ Processes can’t be assigned to memory blocks due to their small size, and the memory blocks stay unused. 
+It is also necessary to understand that as programs are loaded and deleted from memory, they generate free space or a hole in the memory. 
+These small blocks cannot be allotted to new arriving processes, resulting in inefficient memory use.
+
+The conditions of fragmentation depend on the memory allocation system. As the process is loaded and unloaded from memory, 
+these areas are fragmented into small pieces of memory that cannot be allocated to incoming processes. It is called fragmentation.
+
+ChatGPT:
+
+Fragmentation is a common problem in computer systems that occurs when files or data are stored on a hard drive or other storage device
+ in a non-contiguous manner, meaning that they are split up into multiple fragments or pieces that are scattered throughout the drive. 
+This can occur due to various reasons, such as file deletions, file additions, and file modifications over time.
+
+Fragmentation can lead to several performance issues, including slower file access times, slower boot times, and longer backup and 
+restore times. This is because the computers file system needs to search for and access each fragment of the file separately, 
+which can be time-consuming and resource-intensive.

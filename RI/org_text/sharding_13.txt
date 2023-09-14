@@ -1,0 +1,15 @@
+Human:
+
+
+Sharding is a method of splitting and storing a single logical dataset in multiple databases. 
+By distributing the data among multiple machines, a cluster of database systems can store larger dataset and handle 
+additional requests. Sharding is necessary if a dataset is too large to be stored in a single database. Moreover, many 
+sharding strategies allow additional machines to be added. Sharding allows a database cluster to scale along with its data and 
+traffic growth.
+
+
+ChatGPT:
+
+Sharding is a database architecture technique in which a large database is divided into smaller, more manageable pieces called shards.
+ Each shard contains a subset of the overall data and is stored on a separate server or cluster of servers. The goal of sharding is to
+ improve the performance and scalability of a database by distributing the load across multiple servers.

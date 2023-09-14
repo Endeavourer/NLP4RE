@@ -1,0 +1,15 @@
+Human:
+
+A computer can address more memory than the amount physically installed on the system. 
+This extra memory is actually called virtual memory and it is a section of a hard disk that is set up to emulate the computers RAM.
+The main visible advantage of this scheme is that programs can be larger than physical memory. Virtual memory serves two purposes. 
+First, it allows us to extend the use of physical memory by using a disk. Second, it allows us to have memory protection, because each 
+virtual address is translated to a physical address.
+
+
+chatGpt:
+
+
+Virtual memory is a computer system memory management technique that enables a computer to use more memory than physically available. It creates an abstraction of the computer's physical memory by dividing it into smaller units called pages and then mapping them to non-contiguous locations on a hard drive, known as the swap space or page file.
+
+The operating system manages this mapping process by using a page table that keeps track of the correspondence between the virtual memory addresses used by the software and the physical memory addresses used by the hardware. When a program requests access to a memory location, the page table is consulted to determine whether the requested memory is currently in physical memory or needs to be swapped in from the disk.

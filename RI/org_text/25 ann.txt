@@ -1,0 +1,22 @@
+Human:
+
+ANN learning is robust to errors in the training data and has been successfully applied for learning real-valued, discrete-valued, 
+and vector-valued functions containing problems such as interpreting visual scenes, speech recognition, and learning robot control 
+strategies. The study of artificial neural networks has been inspired in part by the observation that biological learning 
+systems are built of very complex webs of interconnected neurons in brains.
+Generally, ANNs are built out of a densely interconnected set of simple units, where each unit takes a number of real-valued inputs 
+and produces a single real-valued output. But ANNs are less motivated by biological neural systems, there are many complexities to 
+biological neural systems that are not modeled by ANNs.
+
+ChatGPT:
+
+Artificial Neural Networks (ANNs) are a type of machine learning algorithm inspired by the structure and function of the human brain. 
+ANNs consist of interconnected nodes or "neurons" that are organized in layers and can learn to recognize patterns in data through a 
+process of training.
+
+ANNs are typically composed of three types of layers: input, hidden, and output layers. The input layer receives the input data, which 
+is then processed by the hidden layers, and the output layer produces the final output.
+
+Each neuron in an ANN receives input from the neurons in the previous layer, and applies a mathematical function to the input to produce 
+an output, which is then passed to the next layer. The connections between the neurons in an ANN have weights that can be adjusted 
+during training to improve the accuracy of the model.

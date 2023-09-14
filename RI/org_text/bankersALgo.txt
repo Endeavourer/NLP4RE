@@ -1,0 +1,16 @@
+Human:
+
+It is a banker algorithm used to avoid deadlock and allocate resources safely to each process in the computer system. 
+The S State examines all possible tests or activities before deciding whether the allocation should be allowed to each process. 
+It also helps the operating system to successfully share the resources between all the processes. The bankers algorithm is named 
+because it checks whether a person should be sanctioned a loan amount or not to help the bank system safely simulate allocation resources.
+
+
+
+ChatGPT:
+
+The Bankers algorithm is a deadlock avoidance algorithm used in operating systems to prevent the occurrence of deadlocks in a multi-process environment. 
+It was developed by Edsger Dijkstra and named after the concept of bankers who loan money based on the available cash.
+
+The Bankers algorithm works by simulating the allocation of resources to processes, and then checking if the allocation could potentially lead to a deadlock. 
+It works by keeping track of the available resources, the maximum resources that can be requested by each process, and the resources that are currently allocated to each process.

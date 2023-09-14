@@ -1,0 +1,16 @@
+Human:
+
+Data cleaning is one of the important parts of machine learning. It plays a significant part in building a model. 
+It surely isn’t the fanciest part of machine learning and at the same time, there aren’t any hidden tricks or secrets to uncover. 
+However, the success or failure of a project relies on proper data cleaning.
+If we have a well cleaned dataset, there are chances that we can get achieve good results with simple algorithms also, 
+which can prove very beneficial at times especially in terms of computation when the dataset size is large. 
+
+
+CHatGPT:
+
+Data cleaning, also known as data cleansing, is the process of identifying and correcting errors, inconsistencies, or missing 
+values in a dataset. Data cleaning is an important step in preparing data for analysis or machine learning, as it helps to ensure 
+that the data is accurate, consistent, and reliable.
+The goal of data cleaning is to improve the quality of the data and ensure that it is suitable for analysis or machine learning. 
+Effective data cleaning can help to improve the accuracy and reliability of the results obtained from the data.

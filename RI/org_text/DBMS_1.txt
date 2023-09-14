@@ -1,0 +1,17 @@
+Human:
+
+Database Management System is a software for storing and retrieving users data while considering appropriate security measures.
+ It consists of a group of programs which manipulate the database. The DBMS accepts the request for data from an application and instructs
+ the operating system to provide the specific data. In large systems, a DBMS helps users and other third-party software to store and 
+retrieve data.
+
+
+ChatGPT:
+
+
+A Database Management System is a software system that allows users to store, organize, manage, and retrieve data from a database. 
+The primary goal of a DBMS is to provide a way to store and manage data in a secure and efficient manner.
+
+A DBMS consists of several components, including the database, the database engine, the data definition language, the data manipulation
+ language, and the query language. The database is a collection of related data that is organized in a particular way, while the 
+database engine is responsible for managing the data stored in the database.
